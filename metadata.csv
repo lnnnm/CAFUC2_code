@@ -1,0 +1,494 @@
+File_Name,Aircraft_Model,Condition,Anomaly_Type,Duration_Seconds,File_Path
+cleaned_0022_filled.csv,C172R,Normal,None,4995,CAFUC2/normal_data/C172R/cleaned_0022_filled.csv
+cleaned_0003_filled.csv,C172R,Normal,None,6810,CAFUC2/normal_data/C172R/cleaned_0003_filled.csv
+cleaned_0002_filled.csv,C172R,Normal,None,6771,CAFUC2/normal_data/C172R/cleaned_0002_filled.csv
+cleaned_0001_filled.csv,C172R,Normal,None,13218,CAFUC2/normal_data/C172R/cleaned_0001_filled.csv
+cleaned_0030_filled.csv,C172R,Normal,None,7003,CAFUC2/normal_data/C172R/cleaned_0030_filled.csv
+cleaned_0018_filled.csv,C172R,Normal,None,13433,CAFUC2/normal_data/C172R/cleaned_0018_filled.csv
+cleaned_0023_filled.csv,C172R,Normal,None,4818,CAFUC2/normal_data/C172R/cleaned_0023_filled.csv
+cleaned_0021_filled.csv,C172R,Normal,None,10781,CAFUC2/normal_data/C172R/cleaned_0021_filled.csv
+cleaned_0011_filled.csv,C172R,Normal,None,6399,CAFUC2/normal_data/C172R/cleaned_0011_filled.csv
+cleaned_0016_filled.csv,C172R,Normal,None,7810,CAFUC2/normal_data/C172R/cleaned_0016_filled.csv
+cleaned_0004_filled.csv,C172R,Normal,None,11835,CAFUC2/normal_data/C172R/cleaned_0004_filled.csv
+cleaned_0020_filled.csv,C172R,Normal,None,5197,CAFUC2/normal_data/C172R/cleaned_0020_filled.csv
+cleaned_0027_filled.csv,C172R,Normal,None,4200,CAFUC2/normal_data/C172R/cleaned_0027_filled.csv
+cleaned_0008_filled.csv,C172R,Normal,None,5222,CAFUC2/normal_data/C172R/cleaned_0008_filled.csv
+cleaned_0014_filled.csv,C172R,Normal,None,7900,CAFUC2/normal_data/C172R/cleaned_0014_filled.csv
+cleaned_0028_filled.csv,C172R,Normal,None,7948,CAFUC2/normal_data/C172R/cleaned_0028_filled.csv
+cleaned_0007_filled.csv,C172R,Normal,None,16199,CAFUC2/normal_data/C172R/cleaned_0007_filled.csv
+cleaned_0009_filled.csv,C172R,Normal,None,5724,CAFUC2/normal_data/C172R/cleaned_0009_filled.csv
+cleaned_0029_filled.csv,C172R,Normal,None,9256,CAFUC2/normal_data/C172R/cleaned_0029_filled.csv
+cleaned_0013_filled.csv,C172R,Normal,None,12640,CAFUC2/normal_data/C172R/cleaned_0013_filled.csv
+cleaned_0010_filled.csv,C172R,Normal,None,14544,CAFUC2/normal_data/C172R/cleaned_0010_filled.csv
+cleaned_0025_filled.csv,C172R,Normal,None,4120,CAFUC2/normal_data/C172R/cleaned_0025_filled.csv
+cleaned_0026_filled.csv,C172R,Normal,None,6518,CAFUC2/normal_data/C172R/cleaned_0026_filled.csv
+cleaned_0019_filled.csv,C172R,Normal,None,11573,CAFUC2/normal_data/C172R/cleaned_0019_filled.csv
+cleaned_0017_filled.csv,C172R,Normal,None,10731,CAFUC2/normal_data/C172R/cleaned_0017_filled.csv
+cleaned_0012_filled.csv,C172R,Normal,None,5533,CAFUC2/normal_data/C172R/cleaned_0012_filled.csv
+cleaned_0006_filled.csv,C172R,Normal,None,4766,CAFUC2/normal_data/C172R/cleaned_0006_filled.csv
+cleaned_0015_filled.csv,C172R,Normal,None,3726,CAFUC2/normal_data/C172R/cleaned_0015_filled.csv
+cleaned_0005_filled.csv,C172R,Normal,None,8323,CAFUC2/normal_data/C172R/cleaned_0005_filled.csv
+cleaned_0024_filled.csv,C172R,Normal,None,9346,CAFUC2/normal_data/C172R/cleaned_0024_filled.csv
+cleaned_0022_filled.csv,C172S,Normal,None,8033,CAFUC2/normal_data/C172S/cleaned_0022_filled.csv
+cleaned_0003_filled.csv,C172S,Normal,None,10134,CAFUC2/normal_data/C172S/cleaned_0003_filled.csv
+cleaned_0002_filled.csv,C172S,Normal,None,6002,CAFUC2/normal_data/C172S/cleaned_0002_filled.csv
+cleaned_0001_filled.csv,C172S,Normal,None,10160,CAFUC2/normal_data/C172S/cleaned_0001_filled.csv
+cleaned_0030_filled.csv,C172S,Normal,None,7714,CAFUC2/normal_data/C172S/cleaned_0030_filled.csv
+cleaned_0018_filled.csv,C172S,Normal,None,13634,CAFUC2/normal_data/C172S/cleaned_0018_filled.csv
+cleaned_0023_filled.csv,C172S,Normal,None,7774,CAFUC2/normal_data/C172S/cleaned_0023_filled.csv
+cleaned_0021_filled.csv,C172S,Normal,None,7510,CAFUC2/normal_data/C172S/cleaned_0021_filled.csv
+cleaned_0011_filled.csv,C172S,Normal,None,12035,CAFUC2/normal_data/C172S/cleaned_0011_filled.csv
+cleaned_0016_filled.csv,C172S,Normal,None,6532,CAFUC2/normal_data/C172S/cleaned_0016_filled.csv
+cleaned_0004_filled.csv,C172S,Normal,None,5439,CAFUC2/normal_data/C172S/cleaned_0004_filled.csv
+cleaned_0020_filled.csv,C172S,Normal,None,3766,CAFUC2/normal_data/C172S/cleaned_0020_filled.csv
+cleaned_0027_filled.csv,C172S,Normal,None,4267,CAFUC2/normal_data/C172S/cleaned_0027_filled.csv
+cleaned_0008_filled.csv,C172S,Normal,None,10896,CAFUC2/normal_data/C172S/cleaned_0008_filled.csv
+cleaned_0014_filled.csv,C172S,Normal,None,11243,CAFUC2/normal_data/C172S/cleaned_0014_filled.csv
+cleaned_0028_filled.csv,C172S,Normal,None,12868,CAFUC2/normal_data/C172S/cleaned_0028_filled.csv
+cleaned_0007_filled.csv,C172S,Normal,None,14132,CAFUC2/normal_data/C172S/cleaned_0007_filled.csv
+cleaned_0009_filled.csv,C172S,Normal,None,6161,CAFUC2/normal_data/C172S/cleaned_0009_filled.csv
+cleaned_0029_filled.csv,C172S,Normal,None,9791,CAFUC2/normal_data/C172S/cleaned_0029_filled.csv
+cleaned_0013_filled.csv,C172S,Normal,None,11415,CAFUC2/normal_data/C172S/cleaned_0013_filled.csv
+cleaned_0010_filled.csv,C172S,Normal,None,12689,CAFUC2/normal_data/C172S/cleaned_0010_filled.csv
+cleaned_0025_filled.csv,C172S,Normal,None,8961,CAFUC2/normal_data/C172S/cleaned_0025_filled.csv
+cleaned_0026_filled.csv,C172S,Normal,None,6249,CAFUC2/normal_data/C172S/cleaned_0026_filled.csv
+cleaned_0019_filled.csv,C172S,Normal,None,7365,CAFUC2/normal_data/C172S/cleaned_0019_filled.csv
+cleaned_0017_filled.csv,C172S,Normal,None,12778,CAFUC2/normal_data/C172S/cleaned_0017_filled.csv
+cleaned_0012_filled.csv,C172S,Normal,None,12787,CAFUC2/normal_data/C172S/cleaned_0012_filled.csv
+cleaned_0006_filled.csv,C172S,Normal,None,5598,CAFUC2/normal_data/C172S/cleaned_0006_filled.csv
+cleaned_0015_filled.csv,C172S,Normal,None,9199,CAFUC2/normal_data/C172S/cleaned_0015_filled.csv
+cleaned_0005_filled.csv,C172S,Normal,None,4681,CAFUC2/normal_data/C172S/cleaned_0005_filled.csv
+cleaned_0024_filled.csv,C172S,Normal,None,6995,CAFUC2/normal_data/C172S/cleaned_0024_filled.csv
+cleaned_0022_filled.csv,SR20,Normal,None,7013,CAFUC2/normal_data/SR20/cleaned_0022_filled.csv
+cleaned_0003_filled.csv,SR20,Normal,None,8935,CAFUC2/normal_data/SR20/cleaned_0003_filled.csv
+cleaned_0002_filled.csv,SR20,Normal,None,5547,CAFUC2/normal_data/SR20/cleaned_0002_filled.csv
+cleaned_0001_filled.csv,SR20,Normal,None,7081,CAFUC2/normal_data/SR20/cleaned_0001_filled.csv
+cleaned_0030_filled.csv,SR20,Normal,None,13558,CAFUC2/normal_data/SR20/cleaned_0030_filled.csv
+cleaned_0018_filled.csv,SR20,Normal,None,10747,CAFUC2/normal_data/SR20/cleaned_0018_filled.csv
+cleaned_0023_filled.csv,SR20,Normal,None,4902,CAFUC2/normal_data/SR20/cleaned_0023_filled.csv
+cleaned_0021_filled.csv,SR20,Normal,None,4307,CAFUC2/normal_data/SR20/cleaned_0021_filled.csv
+cleaned_0011_filled.csv,SR20,Normal,None,12735,CAFUC2/normal_data/SR20/cleaned_0011_filled.csv
+cleaned_0016_filled.csv,SR20,Normal,None,11979,CAFUC2/normal_data/SR20/cleaned_0016_filled.csv
+cleaned_0004_filled.csv,SR20,Normal,None,9250,CAFUC2/normal_data/SR20/cleaned_0004_filled.csv
+cleaned_0020_filled.csv,SR20,Normal,None,5798,CAFUC2/normal_data/SR20/cleaned_0020_filled.csv
+cleaned_0027_filled.csv,SR20,Normal,None,9505,CAFUC2/normal_data/SR20/cleaned_0027_filled.csv
+cleaned_0008_filled.csv,SR20,Normal,None,12058,CAFUC2/normal_data/SR20/cleaned_0008_filled.csv
+cleaned_0014_filled.csv,SR20,Normal,None,5366,CAFUC2/normal_data/SR20/cleaned_0014_filled.csv
+cleaned_0028_filled.csv,SR20,Normal,None,4129,CAFUC2/normal_data/SR20/cleaned_0028_filled.csv
+cleaned_0007_filled.csv,SR20,Normal,None,4520,CAFUC2/normal_data/SR20/cleaned_0007_filled.csv
+cleaned_0009_filled.csv,SR20,Normal,None,5141,CAFUC2/normal_data/SR20/cleaned_0009_filled.csv
+cleaned_0029_filled.csv,SR20,Normal,None,14175,CAFUC2/normal_data/SR20/cleaned_0029_filled.csv
+cleaned_0013_filled.csv,SR20,Normal,None,6674,CAFUC2/normal_data/SR20/cleaned_0013_filled.csv
+cleaned_0010_filled.csv,SR20,Normal,None,9956,CAFUC2/normal_data/SR20/cleaned_0010_filled.csv
+cleaned_0025_filled.csv,SR20,Normal,None,5848,CAFUC2/normal_data/SR20/cleaned_0025_filled.csv
+cleaned_0026_filled.csv,SR20,Normal,None,9798,CAFUC2/normal_data/SR20/cleaned_0026_filled.csv
+cleaned_0019_filled.csv,SR20,Normal,None,3859,CAFUC2/normal_data/SR20/cleaned_0019_filled.csv
+cleaned_0017_filled.csv,SR20,Normal,None,3247,CAFUC2/normal_data/SR20/cleaned_0017_filled.csv
+cleaned_0012_filled.csv,SR20,Normal,None,9825,CAFUC2/normal_data/SR20/cleaned_0012_filled.csv
+cleaned_0006_filled.csv,SR20,Normal,None,3995,CAFUC2/normal_data/SR20/cleaned_0006_filled.csv
+cleaned_0015_filled.csv,SR20,Normal,None,3522,CAFUC2/normal_data/SR20/cleaned_0015_filled.csv
+cleaned_0005_filled.csv,SR20,Normal,None,13236,CAFUC2/normal_data/SR20/cleaned_0005_filled.csv
+cleaned_0024_filled.csv,SR20,Normal,None,9365,CAFUC2/normal_data/SR20/cleaned_0024_filled.csv
+cleaned_0022_filled.csv,SR20G6,Normal,None,6515,CAFUC2/normal_data/SR20G6/cleaned_0022_filled.csv
+cleaned_0003_filled.csv,SR20G6,Normal,None,10591,CAFUC2/normal_data/SR20G6/cleaned_0003_filled.csv
+cleaned_0002_filled.csv,SR20G6,Normal,None,12602,CAFUC2/normal_data/SR20G6/cleaned_0002_filled.csv
+cleaned_0001_filled.csv,SR20G6,Normal,None,12868,CAFUC2/normal_data/SR20G6/cleaned_0001_filled.csv
+cleaned_0030_filled.csv,SR20G6,Normal,None,10637,CAFUC2/normal_data/SR20G6/cleaned_0030_filled.csv
+cleaned_0018_filled.csv,SR20G6,Normal,None,4084,CAFUC2/normal_data/SR20G6/cleaned_0018_filled.csv
+cleaned_0023_filled.csv,SR20G6,Normal,None,10413,CAFUC2/normal_data/SR20G6/cleaned_0023_filled.csv
+cleaned_0021_filled.csv,SR20G6,Normal,None,11022,CAFUC2/normal_data/SR20G6/cleaned_0021_filled.csv
+cleaned_0011_filled.csv,SR20G6,Normal,None,8960,CAFUC2/normal_data/SR20G6/cleaned_0011_filled.csv
+cleaned_0016_filled.csv,SR20G6,Normal,None,4220,CAFUC2/normal_data/SR20G6/cleaned_0016_filled.csv
+cleaned_0004_filled.csv,SR20G6,Normal,None,5529,CAFUC2/normal_data/SR20G6/cleaned_0004_filled.csv
+cleaned_0020_filled.csv,SR20G6,Normal,None,8452,CAFUC2/normal_data/SR20G6/cleaned_0020_filled.csv
+cleaned_0027_filled.csv,SR20G6,Normal,None,6945,CAFUC2/normal_data/SR20G6/cleaned_0027_filled.csv
+cleaned_0008_filled.csv,SR20G6,Normal,None,10288,CAFUC2/normal_data/SR20G6/cleaned_0008_filled.csv
+cleaned_0014_filled.csv,SR20G6,Normal,None,10602,CAFUC2/normal_data/SR20G6/cleaned_0014_filled.csv
+cleaned_0028_filled.csv,SR20G6,Normal,None,10931,CAFUC2/normal_data/SR20G6/cleaned_0028_filled.csv
+cleaned_0007_filled.csv,SR20G6,Normal,None,4107,CAFUC2/normal_data/SR20G6/cleaned_0007_filled.csv
+cleaned_0009_filled.csv,SR20G6,Normal,None,7197,CAFUC2/normal_data/SR20G6/cleaned_0009_filled.csv
+cleaned_0029_filled.csv,SR20G6,Normal,None,7401,CAFUC2/normal_data/SR20G6/cleaned_0029_filled.csv
+cleaned_0013_filled.csv,SR20G6,Normal,None,11466,CAFUC2/normal_data/SR20G6/cleaned_0013_filled.csv
+cleaned_0010_filled.csv,SR20G6,Normal,None,6922,CAFUC2/normal_data/SR20G6/cleaned_0010_filled.csv
+cleaned_0025_filled.csv,SR20G6,Normal,None,7089,CAFUC2/normal_data/SR20G6/cleaned_0025_filled.csv
+cleaned_0026_filled.csv,SR20G6,Normal,None,4539,CAFUC2/normal_data/SR20G6/cleaned_0026_filled.csv
+cleaned_0019_filled.csv,SR20G6,Normal,None,10192,CAFUC2/normal_data/SR20G6/cleaned_0019_filled.csv
+cleaned_0017_filled.csv,SR20G6,Normal,None,4049,CAFUC2/normal_data/SR20G6/cleaned_0017_filled.csv
+cleaned_0012_filled.csv,SR20G6,Normal,None,5455,CAFUC2/normal_data/SR20G6/cleaned_0012_filled.csv
+cleaned_0006_filled.csv,SR20G6,Normal,None,7940,CAFUC2/normal_data/SR20G6/cleaned_0006_filled.csv
+cleaned_0015_filled.csv,SR20G6,Normal,None,5195,CAFUC2/normal_data/SR20G6/cleaned_0015_filled.csv
+cleaned_0005_filled.csv,SR20G6,Normal,None,9250,CAFUC2/normal_data/SR20G6/cleaned_0005_filled.csv
+cleaned_0024_filled.csv,SR20G6,Normal,None,7976,CAFUC2/normal_data/SR20G6/cleaned_0024_filled.csv
+29.csv,C172R,Abnormal,Flight Path Deviation,8323,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/29.csv
+5.csv,C172R,Abnormal,Flight Path Deviation,7003,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/5.csv
+anomaly_segments.csv,C172R,Abnormal,Flight Path Deviation,225,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/anomaly_segments.csv
+16.csv,C172R,Abnormal,Flight Path Deviation,7948,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/16.csv
+28.csv,C172R,Abnormal,Flight Path Deviation,3726,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/28.csv
+1.csv,C172R,Abnormal,Flight Path Deviation,4995,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/1.csv
+14.csv,C172R,Abnormal,Flight Path Deviation,5222,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/14.csv
+21.csv,C172R,Abnormal,Flight Path Deviation,14544,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/21.csv
+2.csv,C172R,Abnormal,Flight Path Deviation,6810,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/2.csv
+17.csv,C172R,Abnormal,Flight Path Deviation,16199,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/17.csv
+4.csv,C172R,Abnormal,Flight Path Deviation,13218,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/4.csv
+7.csv,C172R,Abnormal,Flight Path Deviation,4818,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/7.csv
+8.csv,C172R,Abnormal,Flight Path Deviation,10781,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/8.csv
+23.csv,C172R,Abnormal,Flight Path Deviation,6518,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/23.csv
+25.csv,C172R,Abnormal,Flight Path Deviation,10731,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/25.csv
+3.csv,C172R,Abnormal,Flight Path Deviation,6771,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/3.csv
+22.csv,C172R,Abnormal,Flight Path Deviation,4120,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/22.csv
+12.csv,C172R,Abnormal,Flight Path Deviation,5197,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/12.csv
+24.csv,C172R,Abnormal,Flight Path Deviation,11573,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/24.csv
+11.csv,C172R,Abnormal,Flight Path Deviation,11835,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/11.csv
+26.csv,C172R,Abnormal,Flight Path Deviation,5533,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/26.csv
+15.csv,C172R,Abnormal,Flight Path Deviation,7900,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/15.csv
+9.csv,C172R,Abnormal,Flight Path Deviation,6399,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/9.csv
+19.csv,C172R,Abnormal,Flight Path Deviation,9256,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/19.csv
+30.csv,C172R,Abnormal,Flight Path Deviation,9346,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/30.csv
+18.csv,C172R,Abnormal,Flight Path Deviation,5724,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/18.csv
+6.csv,C172R,Abnormal,Flight Path Deviation,13433,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/6.csv
+10.csv,C172R,Abnormal,Flight Path Deviation,7810,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/10.csv
+27.csv,C172R,Abnormal,Flight Path Deviation,4766,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/27.csv
+13.csv,C172R,Abnormal,Flight Path Deviation,4200,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/13.csv
+20.csv,C172R,Abnormal,Flight Path Deviation,12640,CAFUC2/abnormal_data/course_deviation/clean_data_C172R/20.csv
+29.csv,C172S,Abnormal,Flight Path Deviation,4681,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/29.csv
+5.csv,C172S,Abnormal,Flight Path Deviation,7714,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/5.csv
+anomaly_segments.csv,C172S,Abnormal,Flight Path Deviation,241,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/anomaly_segments.csv
+16.csv,C172S,Abnormal,Flight Path Deviation,12868,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/16.csv
+28.csv,C172S,Abnormal,Flight Path Deviation,9199,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/28.csv
+1.csv,C172S,Abnormal,Flight Path Deviation,8033,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/1.csv
+14.csv,C172S,Abnormal,Flight Path Deviation,10896,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/14.csv
+21.csv,C172S,Abnormal,Flight Path Deviation,12689,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/21.csv
+2.csv,C172S,Abnormal,Flight Path Deviation,10134,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/2.csv
+17.csv,C172S,Abnormal,Flight Path Deviation,14132,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/17.csv
+4.csv,C172S,Abnormal,Flight Path Deviation,10160,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/4.csv
+7.csv,C172S,Abnormal,Flight Path Deviation,7774,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/7.csv
+8.csv,C172S,Abnormal,Flight Path Deviation,7510,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/8.csv
+23.csv,C172S,Abnormal,Flight Path Deviation,6249,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/23.csv
+25.csv,C172S,Abnormal,Flight Path Deviation,12778,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/25.csv
+3.csv,C172S,Abnormal,Flight Path Deviation,6002,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/3.csv
+22.csv,C172S,Abnormal,Flight Path Deviation,8961,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/22.csv
+12.csv,C172S,Abnormal,Flight Path Deviation,3766,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/12.csv
+24.csv,C172S,Abnormal,Flight Path Deviation,7365,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/24.csv
+11.csv,C172S,Abnormal,Flight Path Deviation,5439,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/11.csv
+26.csv,C172S,Abnormal,Flight Path Deviation,12787,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/26.csv
+15.csv,C172S,Abnormal,Flight Path Deviation,11243,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/15.csv
+9.csv,C172S,Abnormal,Flight Path Deviation,12035,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/9.csv
+19.csv,C172S,Abnormal,Flight Path Deviation,9791,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/19.csv
+30.csv,C172S,Abnormal,Flight Path Deviation,6995,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/30.csv
+18.csv,C172S,Abnormal,Flight Path Deviation,6161,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/18.csv
+6.csv,C172S,Abnormal,Flight Path Deviation,13634,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/6.csv
+10.csv,C172S,Abnormal,Flight Path Deviation,6532,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/10.csv
+27.csv,C172S,Abnormal,Flight Path Deviation,5598,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/27.csv
+13.csv,C172S,Abnormal,Flight Path Deviation,4267,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/13.csv
+20.csv,C172S,Abnormal,Flight Path Deviation,11415,CAFUC2/abnormal_data/course_deviation/clean_data_C172S/20.csv
+29.csv,SR20,Abnormal,Flight Path Deviation,13236,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/29.csv
+5.csv,SR20,Abnormal,Flight Path Deviation,13558,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/5.csv
+anomaly_segments.csv,SR20,Abnormal,Flight Path Deviation,216,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/anomaly_segments.csv
+16.csv,SR20,Abnormal,Flight Path Deviation,4129,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/16.csv
+28.csv,SR20,Abnormal,Flight Path Deviation,3522,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/28.csv
+1.csv,SR20,Abnormal,Flight Path Deviation,7013,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/1.csv
+14.csv,SR20,Abnormal,Flight Path Deviation,12058,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/14.csv
+21.csv,SR20,Abnormal,Flight Path Deviation,9956,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/21.csv
+2.csv,SR20,Abnormal,Flight Path Deviation,8935,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/2.csv
+17.csv,SR20,Abnormal,Flight Path Deviation,4520,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/17.csv
+4.csv,SR20,Abnormal,Flight Path Deviation,7081,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/4.csv
+7.csv,SR20,Abnormal,Flight Path Deviation,4902,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/7.csv
+8.csv,SR20,Abnormal,Flight Path Deviation,4307,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/8.csv
+23.csv,SR20,Abnormal,Flight Path Deviation,9798,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/23.csv
+25.csv,SR20,Abnormal,Flight Path Deviation,3247,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/25.csv
+3.csv,SR20,Abnormal,Flight Path Deviation,5547,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/3.csv
+22.csv,SR20,Abnormal,Flight Path Deviation,5848,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/22.csv
+12.csv,SR20,Abnormal,Flight Path Deviation,5798,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/12.csv
+24.csv,SR20,Abnormal,Flight Path Deviation,3859,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/24.csv
+11.csv,SR20,Abnormal,Flight Path Deviation,9250,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/11.csv
+26.csv,SR20,Abnormal,Flight Path Deviation,9825,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/26.csv
+15.csv,SR20,Abnormal,Flight Path Deviation,5366,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/15.csv
+9.csv,SR20,Abnormal,Flight Path Deviation,12735,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/9.csv
+19.csv,SR20,Abnormal,Flight Path Deviation,14175,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/19.csv
+30.csv,SR20,Abnormal,Flight Path Deviation,9365,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/30.csv
+18.csv,SR20,Abnormal,Flight Path Deviation,5141,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/18.csv
+6.csv,SR20,Abnormal,Flight Path Deviation,10747,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/6.csv
+10.csv,SR20,Abnormal,Flight Path Deviation,11979,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/10.csv
+27.csv,SR20,Abnormal,Flight Path Deviation,3995,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/27.csv
+13.csv,SR20,Abnormal,Flight Path Deviation,9505,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/13.csv
+20.csv,SR20,Abnormal,Flight Path Deviation,6674,CAFUC2/abnormal_data/course_deviation/clean_data_SR20/20.csv
+29.csv,SR20G6,Abnormal,Flight Path Deviation,9250,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/29.csv
+5.csv,SR20G6,Abnormal,Flight Path Deviation,10637,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/5.csv
+anomaly_segments.csv,SR20G6,Abnormal,Flight Path Deviation,226,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/anomaly_segments.csv
+16.csv,SR20G6,Abnormal,Flight Path Deviation,10931,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/16.csv
+28.csv,SR20G6,Abnormal,Flight Path Deviation,5195,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/28.csv
+1.csv,SR20G6,Abnormal,Flight Path Deviation,6515,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/1.csv
+14.csv,SR20G6,Abnormal,Flight Path Deviation,10288,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/14.csv
+21.csv,SR20G6,Abnormal,Flight Path Deviation,6922,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/21.csv
+2.csv,SR20G6,Abnormal,Flight Path Deviation,10591,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/2.csv
+17.csv,SR20G6,Abnormal,Flight Path Deviation,4107,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/17.csv
+4.csv,SR20G6,Abnormal,Flight Path Deviation,12868,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/4.csv
+7.csv,SR20G6,Abnormal,Flight Path Deviation,10413,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/7.csv
+8.csv,SR20G6,Abnormal,Flight Path Deviation,11022,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/8.csv
+23.csv,SR20G6,Abnormal,Flight Path Deviation,4539,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/23.csv
+25.csv,SR20G6,Abnormal,Flight Path Deviation,4049,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/25.csv
+3.csv,SR20G6,Abnormal,Flight Path Deviation,12602,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/3.csv
+22.csv,SR20G6,Abnormal,Flight Path Deviation,7089,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/22.csv
+12.csv,SR20G6,Abnormal,Flight Path Deviation,8452,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/12.csv
+24.csv,SR20G6,Abnormal,Flight Path Deviation,10192,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/24.csv
+11.csv,SR20G6,Abnormal,Flight Path Deviation,5529,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/11.csv
+26.csv,SR20G6,Abnormal,Flight Path Deviation,5455,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/26.csv
+15.csv,SR20G6,Abnormal,Flight Path Deviation,10602,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/15.csv
+9.csv,SR20G6,Abnormal,Flight Path Deviation,8960,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/9.csv
+19.csv,SR20G6,Abnormal,Flight Path Deviation,7401,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/19.csv
+30.csv,SR20G6,Abnormal,Flight Path Deviation,7976,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/30.csv
+18.csv,SR20G6,Abnormal,Flight Path Deviation,7197,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/18.csv
+6.csv,SR20G6,Abnormal,Flight Path Deviation,4084,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/6.csv
+10.csv,SR20G6,Abnormal,Flight Path Deviation,4220,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/10.csv
+27.csv,SR20G6,Abnormal,Flight Path Deviation,7940,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/27.csv
+13.csv,SR20G6,Abnormal,Flight Path Deviation,6945,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/13.csv
+20.csv,SR20G6,Abnormal,Flight Path Deviation,11466,CAFUC2/abnormal_data/course_deviation/clean_data_SR20G6/20.csv
+29.csv,C172R,Abnormal,Engine Cooling Failure,8323,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/29.csv
+5.csv,C172R,Abnormal,Engine Cooling Failure,7003,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/5.csv
+16.csv,C172R,Abnormal,Engine Cooling Failure,7948,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/16.csv
+28.csv,C172R,Abnormal,Engine Cooling Failure,3726,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/28.csv
+1.csv,C172R,Abnormal,Engine Cooling Failure,4995,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/1.csv
+14.csv,C172R,Abnormal,Engine Cooling Failure,5222,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/14.csv
+21.csv,C172R,Abnormal,Engine Cooling Failure,14544,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/21.csv
+2.csv,C172R,Abnormal,Engine Cooling Failure,6810,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/2.csv
+17.csv,C172R,Abnormal,Engine Cooling Failure,16199,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/17.csv
+4.csv,C172R,Abnormal,Engine Cooling Failure,13218,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/4.csv
+7.csv,C172R,Abnormal,Engine Cooling Failure,4818,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/7.csv
+8.csv,C172R,Abnormal,Engine Cooling Failure,10781,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/8.csv
+23.csv,C172R,Abnormal,Engine Cooling Failure,6518,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/23.csv
+cht_drop_segments.csv,C172R,Abnormal,Engine Cooling Failure,96,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/cht_drop_segments.csv
+25.csv,C172R,Abnormal,Engine Cooling Failure,10731,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/25.csv
+3.csv,C172R,Abnormal,Engine Cooling Failure,6771,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/3.csv
+22.csv,C172R,Abnormal,Engine Cooling Failure,4120,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/22.csv
+12.csv,C172R,Abnormal,Engine Cooling Failure,5197,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/12.csv
+24.csv,C172R,Abnormal,Engine Cooling Failure,11573,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/24.csv
+11.csv,C172R,Abnormal,Engine Cooling Failure,11835,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/11.csv
+26.csv,C172R,Abnormal,Engine Cooling Failure,5533,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/26.csv
+15.csv,C172R,Abnormal,Engine Cooling Failure,7900,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/15.csv
+9.csv,C172R,Abnormal,Engine Cooling Failure,6399,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/9.csv
+19.csv,C172R,Abnormal,Engine Cooling Failure,9256,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/19.csv
+30.csv,C172R,Abnormal,Engine Cooling Failure,9346,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/30.csv
+18.csv,C172R,Abnormal,Engine Cooling Failure,5724,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/18.csv
+6.csv,C172R,Abnormal,Engine Cooling Failure,13433,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/6.csv
+10.csv,C172R,Abnormal,Engine Cooling Failure,7810,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/10.csv
+27.csv,C172R,Abnormal,Engine Cooling Failure,4766,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/27.csv
+13.csv,C172R,Abnormal,Engine Cooling Failure,4200,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/13.csv
+20.csv,C172R,Abnormal,Engine Cooling Failure,12640,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172R/20.csv
+29.csv,C172S,Abnormal,Engine Cooling Failure,4681,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/29.csv
+5.csv,C172S,Abnormal,Engine Cooling Failure,7714,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/5.csv
+16.csv,C172S,Abnormal,Engine Cooling Failure,12868,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/16.csv
+28.csv,C172S,Abnormal,Engine Cooling Failure,9199,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/28.csv
+1.csv,C172S,Abnormal,Engine Cooling Failure,8033,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/1.csv
+14.csv,C172S,Abnormal,Engine Cooling Failure,10896,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/14.csv
+21.csv,C172S,Abnormal,Engine Cooling Failure,12689,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/21.csv
+2.csv,C172S,Abnormal,Engine Cooling Failure,10134,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/2.csv
+17.csv,C172S,Abnormal,Engine Cooling Failure,14132,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/17.csv
+4.csv,C172S,Abnormal,Engine Cooling Failure,10160,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/4.csv
+7.csv,C172S,Abnormal,Engine Cooling Failure,7774,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/7.csv
+8.csv,C172S,Abnormal,Engine Cooling Failure,7510,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/8.csv
+23.csv,C172S,Abnormal,Engine Cooling Failure,6249,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/23.csv
+cht_drop_segments.csv,C172S,Abnormal,Engine Cooling Failure,103,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/cht_drop_segments.csv
+25.csv,C172S,Abnormal,Engine Cooling Failure,12778,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/25.csv
+3.csv,C172S,Abnormal,Engine Cooling Failure,6002,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/3.csv
+22.csv,C172S,Abnormal,Engine Cooling Failure,8961,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/22.csv
+12.csv,C172S,Abnormal,Engine Cooling Failure,3766,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/12.csv
+24.csv,C172S,Abnormal,Engine Cooling Failure,7365,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/24.csv
+11.csv,C172S,Abnormal,Engine Cooling Failure,5439,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/11.csv
+26.csv,C172S,Abnormal,Engine Cooling Failure,12787,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/26.csv
+15.csv,C172S,Abnormal,Engine Cooling Failure,11243,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/15.csv
+9.csv,C172S,Abnormal,Engine Cooling Failure,12035,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/9.csv
+19.csv,C172S,Abnormal,Engine Cooling Failure,9791,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/19.csv
+30.csv,C172S,Abnormal,Engine Cooling Failure,6995,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/30.csv
+18.csv,C172S,Abnormal,Engine Cooling Failure,6161,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/18.csv
+6.csv,C172S,Abnormal,Engine Cooling Failure,13634,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/6.csv
+10.csv,C172S,Abnormal,Engine Cooling Failure,6532,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/10.csv
+27.csv,C172S,Abnormal,Engine Cooling Failure,5598,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/27.csv
+13.csv,C172S,Abnormal,Engine Cooling Failure,4267,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/13.csv
+20.csv,C172S,Abnormal,Engine Cooling Failure,11415,CAFUC2/abnormal_data/engine_power_loss/clean_data_C172S/20.csv
+29.csv,SR20,Abnormal,Engine Cooling Failure,13236,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/29.csv
+5.csv,SR20,Abnormal,Engine Cooling Failure,13558,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/5.csv
+16.csv,SR20,Abnormal,Engine Cooling Failure,4129,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/16.csv
+28.csv,SR20,Abnormal,Engine Cooling Failure,3522,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/28.csv
+1.csv,SR20,Abnormal,Engine Cooling Failure,7013,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/1.csv
+14.csv,SR20,Abnormal,Engine Cooling Failure,12058,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/14.csv
+21.csv,SR20,Abnormal,Engine Cooling Failure,9956,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/21.csv
+2.csv,SR20,Abnormal,Engine Cooling Failure,8935,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/2.csv
+17.csv,SR20,Abnormal,Engine Cooling Failure,4520,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/17.csv
+4.csv,SR20,Abnormal,Engine Cooling Failure,7081,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/4.csv
+7.csv,SR20,Abnormal,Engine Cooling Failure,4902,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/7.csv
+8.csv,SR20,Abnormal,Engine Cooling Failure,4307,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/8.csv
+23.csv,SR20,Abnormal,Engine Cooling Failure,9798,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/23.csv
+cht_drop_segments.csv,SR20,Abnormal,Engine Cooling Failure,91,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/cht_drop_segments.csv
+25.csv,SR20,Abnormal,Engine Cooling Failure,3247,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/25.csv
+3.csv,SR20,Abnormal,Engine Cooling Failure,5547,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/3.csv
+22.csv,SR20,Abnormal,Engine Cooling Failure,5848,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/22.csv
+12.csv,SR20,Abnormal,Engine Cooling Failure,5798,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/12.csv
+24.csv,SR20,Abnormal,Engine Cooling Failure,3859,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/24.csv
+11.csv,SR20,Abnormal,Engine Cooling Failure,9250,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/11.csv
+26.csv,SR20,Abnormal,Engine Cooling Failure,9825,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/26.csv
+15.csv,SR20,Abnormal,Engine Cooling Failure,5366,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/15.csv
+9.csv,SR20,Abnormal,Engine Cooling Failure,12735,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/9.csv
+19.csv,SR20,Abnormal,Engine Cooling Failure,14175,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/19.csv
+30.csv,SR20,Abnormal,Engine Cooling Failure,9365,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/30.csv
+18.csv,SR20,Abnormal,Engine Cooling Failure,5141,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/18.csv
+6.csv,SR20,Abnormal,Engine Cooling Failure,10747,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/6.csv
+10.csv,SR20,Abnormal,Engine Cooling Failure,11979,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/10.csv
+27.csv,SR20,Abnormal,Engine Cooling Failure,3995,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/27.csv
+13.csv,SR20,Abnormal,Engine Cooling Failure,9505,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/13.csv
+20.csv,SR20,Abnormal,Engine Cooling Failure,6674,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20/20.csv
+29.csv,SR20G6,Abnormal,Engine Cooling Failure,9250,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/29.csv
+5.csv,SR20G6,Abnormal,Engine Cooling Failure,10637,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/5.csv
+16.csv,SR20G6,Abnormal,Engine Cooling Failure,10931,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/16.csv
+28.csv,SR20G6,Abnormal,Engine Cooling Failure,5195,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/28.csv
+1.csv,SR20G6,Abnormal,Engine Cooling Failure,6515,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/1.csv
+14.csv,SR20G6,Abnormal,Engine Cooling Failure,10288,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/14.csv
+21.csv,SR20G6,Abnormal,Engine Cooling Failure,6922,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/21.csv
+2.csv,SR20G6,Abnormal,Engine Cooling Failure,10591,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/2.csv
+17.csv,SR20G6,Abnormal,Engine Cooling Failure,4107,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/17.csv
+4.csv,SR20G6,Abnormal,Engine Cooling Failure,12868,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/4.csv
+7.csv,SR20G6,Abnormal,Engine Cooling Failure,10413,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/7.csv
+8.csv,SR20G6,Abnormal,Engine Cooling Failure,11022,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/8.csv
+23.csv,SR20G6,Abnormal,Engine Cooling Failure,4539,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/23.csv
+cht_drop_segments.csv,SR20G6,Abnormal,Engine Cooling Failure,92,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/cht_drop_segments.csv
+25.csv,SR20G6,Abnormal,Engine Cooling Failure,4049,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/25.csv
+3.csv,SR20G6,Abnormal,Engine Cooling Failure,12602,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/3.csv
+22.csv,SR20G6,Abnormal,Engine Cooling Failure,7089,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/22.csv
+12.csv,SR20G6,Abnormal,Engine Cooling Failure,8452,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/12.csv
+24.csv,SR20G6,Abnormal,Engine Cooling Failure,10192,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/24.csv
+11.csv,SR20G6,Abnormal,Engine Cooling Failure,5529,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/11.csv
+26.csv,SR20G6,Abnormal,Engine Cooling Failure,5455,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/26.csv
+15.csv,SR20G6,Abnormal,Engine Cooling Failure,10602,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/15.csv
+9.csv,SR20G6,Abnormal,Engine Cooling Failure,8960,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/9.csv
+19.csv,SR20G6,Abnormal,Engine Cooling Failure,7401,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/19.csv
+30.csv,SR20G6,Abnormal,Engine Cooling Failure,7976,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/30.csv
+18.csv,SR20G6,Abnormal,Engine Cooling Failure,7197,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/18.csv
+6.csv,SR20G6,Abnormal,Engine Cooling Failure,4084,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/6.csv
+10.csv,SR20G6,Abnormal,Engine Cooling Failure,4220,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/10.csv
+27.csv,SR20G6,Abnormal,Engine Cooling Failure,7940,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/27.csv
+13.csv,SR20G6,Abnormal,Engine Cooling Failure,6945,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/13.csv
+20.csv,SR20G6,Abnormal,Engine Cooling Failure,11466,CAFUC2/abnormal_data/engine_power_loss/clean_data_SR20G6/20.csv
+29.csv,C172R,Abnormal,Pitch Excursion,8323,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/29.csv
+5.csv,C172R,Abnormal,Pitch Excursion,7003,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/5.csv
+16.csv,C172R,Abnormal,Pitch Excursion,7948,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/16.csv
+28.csv,C172R,Abnormal,Pitch Excursion,3726,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/28.csv
+1.csv,C172R,Abnormal,Pitch Excursion,4995,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/1.csv
+14.csv,C172R,Abnormal,Pitch Excursion,5222,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/14.csv
+21.csv,C172R,Abnormal,Pitch Excursion,14544,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/21.csv
+2.csv,C172R,Abnormal,Pitch Excursion,6810,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/2.csv
+17.csv,C172R,Abnormal,Pitch Excursion,16199,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/17.csv
+4.csv,C172R,Abnormal,Pitch Excursion,13218,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/4.csv
+7.csv,C172R,Abnormal,Pitch Excursion,4818,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/7.csv
+8.csv,C172R,Abnormal,Pitch Excursion,10781,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/8.csv
+23.csv,C172R,Abnormal,Pitch Excursion,6518,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/23.csv
+25.csv,C172R,Abnormal,Pitch Excursion,10731,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/25.csv
+3.csv,C172R,Abnormal,Pitch Excursion,6771,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/3.csv
+22.csv,C172R,Abnormal,Pitch Excursion,4120,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/22.csv
+12.csv,C172R,Abnormal,Pitch Excursion,5197,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/12.csv
+24.csv,C172R,Abnormal,Pitch Excursion,11573,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/24.csv
+11.csv,C172R,Abnormal,Pitch Excursion,11835,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/11.csv
+26.csv,C172R,Abnormal,Pitch Excursion,5533,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/26.csv
+15.csv,C172R,Abnormal,Pitch Excursion,7900,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/15.csv
+9.csv,C172R,Abnormal,Pitch Excursion,6399,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/9.csv
+19.csv,C172R,Abnormal,Pitch Excursion,9256,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/19.csv
+30.csv,C172R,Abnormal,Pitch Excursion,9346,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/30.csv
+18.csv,C172R,Abnormal,Pitch Excursion,5724,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/18.csv
+pitch_guard_segments.csv,C172R,Abnormal,Pitch Excursion,1470,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/pitch_guard_segments.csv
+6.csv,C172R,Abnormal,Pitch Excursion,13433,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/6.csv
+10.csv,C172R,Abnormal,Pitch Excursion,7810,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/10.csv
+27.csv,C172R,Abnormal,Pitch Excursion,4766,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/27.csv
+13.csv,C172R,Abnormal,Pitch Excursion,4200,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/13.csv
+20.csv,C172R,Abnormal,Pitch Excursion,12640,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172R/20.csv
+29.csv,C172S,Abnormal,Pitch Excursion,4681,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/29.csv
+5.csv,C172S,Abnormal,Pitch Excursion,7714,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/5.csv
+16.csv,C172S,Abnormal,Pitch Excursion,12868,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/16.csv
+28.csv,C172S,Abnormal,Pitch Excursion,9199,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/28.csv
+1.csv,C172S,Abnormal,Pitch Excursion,8033,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/1.csv
+14.csv,C172S,Abnormal,Pitch Excursion,10896,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/14.csv
+21.csv,C172S,Abnormal,Pitch Excursion,12689,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/21.csv
+2.csv,C172S,Abnormal,Pitch Excursion,10134,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/2.csv
+17.csv,C172S,Abnormal,Pitch Excursion,14132,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/17.csv
+4.csv,C172S,Abnormal,Pitch Excursion,10160,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/4.csv
+7.csv,C172S,Abnormal,Pitch Excursion,7774,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/7.csv
+8.csv,C172S,Abnormal,Pitch Excursion,7510,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/8.csv
+23.csv,C172S,Abnormal,Pitch Excursion,6249,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/23.csv
+25.csv,C172S,Abnormal,Pitch Excursion,12778,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/25.csv
+3.csv,C172S,Abnormal,Pitch Excursion,6002,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/3.csv
+22.csv,C172S,Abnormal,Pitch Excursion,8961,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/22.csv
+12.csv,C172S,Abnormal,Pitch Excursion,3766,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/12.csv
+24.csv,C172S,Abnormal,Pitch Excursion,7365,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/24.csv
+11.csv,C172S,Abnormal,Pitch Excursion,5439,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/11.csv
+26.csv,C172S,Abnormal,Pitch Excursion,12787,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/26.csv
+15.csv,C172S,Abnormal,Pitch Excursion,11243,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/15.csv
+9.csv,C172S,Abnormal,Pitch Excursion,12035,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/9.csv
+19.csv,C172S,Abnormal,Pitch Excursion,9791,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/19.csv
+30.csv,C172S,Abnormal,Pitch Excursion,6995,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/30.csv
+18.csv,C172S,Abnormal,Pitch Excursion,6161,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/18.csv
+pitch_guard_segments.csv,C172S,Abnormal,Pitch Excursion,1586,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/pitch_guard_segments.csv
+6.csv,C172S,Abnormal,Pitch Excursion,13634,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/6.csv
+10.csv,C172S,Abnormal,Pitch Excursion,6532,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/10.csv
+27.csv,C172S,Abnormal,Pitch Excursion,5598,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/27.csv
+13.csv,C172S,Abnormal,Pitch Excursion,4267,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/13.csv
+20.csv,C172S,Abnormal,Pitch Excursion,11415,CAFUC2/abnormal_data/pitch_attitude/clean_data_C172S/20.csv
+29.csv,SR20,Abnormal,Pitch Excursion,13236,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/29.csv
+5.csv,SR20,Abnormal,Pitch Excursion,13558,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/5.csv
+16.csv,SR20,Abnormal,Pitch Excursion,4129,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/16.csv
+28.csv,SR20,Abnormal,Pitch Excursion,3522,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/28.csv
+1.csv,SR20,Abnormal,Pitch Excursion,7013,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/1.csv
+14.csv,SR20,Abnormal,Pitch Excursion,12058,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/14.csv
+21.csv,SR20,Abnormal,Pitch Excursion,9956,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/21.csv
+2.csv,SR20,Abnormal,Pitch Excursion,8935,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/2.csv
+17.csv,SR20,Abnormal,Pitch Excursion,4520,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/17.csv
+4.csv,SR20,Abnormal,Pitch Excursion,7081,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/4.csv
+7.csv,SR20,Abnormal,Pitch Excursion,4902,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/7.csv
+8.csv,SR20,Abnormal,Pitch Excursion,4307,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/8.csv
+23.csv,SR20,Abnormal,Pitch Excursion,9798,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/23.csv
+25.csv,SR20,Abnormal,Pitch Excursion,3247,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/25.csv
+3.csv,SR20,Abnormal,Pitch Excursion,5547,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/3.csv
+22.csv,SR20,Abnormal,Pitch Excursion,5848,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/22.csv
+12.csv,SR20,Abnormal,Pitch Excursion,5798,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/12.csv
+24.csv,SR20,Abnormal,Pitch Excursion,3859,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/24.csv
+11.csv,SR20,Abnormal,Pitch Excursion,9250,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/11.csv
+26.csv,SR20,Abnormal,Pitch Excursion,9825,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/26.csv
+15.csv,SR20,Abnormal,Pitch Excursion,5366,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/15.csv
+9.csv,SR20,Abnormal,Pitch Excursion,12735,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/9.csv
+19.csv,SR20,Abnormal,Pitch Excursion,14175,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/19.csv
+30.csv,SR20,Abnormal,Pitch Excursion,9365,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/30.csv
+18.csv,SR20,Abnormal,Pitch Excursion,5141,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/18.csv
+pitch_guard_segments.csv,SR20,Abnormal,Pitch Excursion,1403,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/pitch_guard_segments.csv
+6.csv,SR20,Abnormal,Pitch Excursion,10747,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/6.csv
+10.csv,SR20,Abnormal,Pitch Excursion,11979,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/10.csv
+27.csv,SR20,Abnormal,Pitch Excursion,3995,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/27.csv
+13.csv,SR20,Abnormal,Pitch Excursion,9505,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/13.csv
+20.csv,SR20,Abnormal,Pitch Excursion,6674,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20/20.csv
+29.csv,SR20G6,Abnormal,Pitch Excursion,9250,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/29.csv
+5.csv,SR20G6,Abnormal,Pitch Excursion,10637,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/5.csv
+16.csv,SR20G6,Abnormal,Pitch Excursion,10931,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/16.csv
+28.csv,SR20G6,Abnormal,Pitch Excursion,5195,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/28.csv
+1.csv,SR20G6,Abnormal,Pitch Excursion,6515,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/1.csv
+14.csv,SR20G6,Abnormal,Pitch Excursion,10288,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/14.csv
+21.csv,SR20G6,Abnormal,Pitch Excursion,6922,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/21.csv
+2.csv,SR20G6,Abnormal,Pitch Excursion,10591,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/2.csv
+17.csv,SR20G6,Abnormal,Pitch Excursion,4107,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/17.csv
+4.csv,SR20G6,Abnormal,Pitch Excursion,12868,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/4.csv
+7.csv,SR20G6,Abnormal,Pitch Excursion,10413,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/7.csv
+8.csv,SR20G6,Abnormal,Pitch Excursion,11022,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/8.csv
+23.csv,SR20G6,Abnormal,Pitch Excursion,4539,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/23.csv
+cht_drop_segments.csv,SR20G6,Abnormal,Pitch Excursion,92,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/cht_drop_segments.csv
+25.csv,SR20G6,Abnormal,Pitch Excursion,4049,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/25.csv
+3.csv,SR20G6,Abnormal,Pitch Excursion,12602,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/3.csv
+22.csv,SR20G6,Abnormal,Pitch Excursion,7089,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/22.csv
+12.csv,SR20G6,Abnormal,Pitch Excursion,8452,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/12.csv
+24.csv,SR20G6,Abnormal,Pitch Excursion,10192,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/24.csv
+11.csv,SR20G6,Abnormal,Pitch Excursion,5529,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/11.csv
+26.csv,SR20G6,Abnormal,Pitch Excursion,5455,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/26.csv
+15.csv,SR20G6,Abnormal,Pitch Excursion,10602,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/15.csv
+9.csv,SR20G6,Abnormal,Pitch Excursion,8960,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/9.csv
+19.csv,SR20G6,Abnormal,Pitch Excursion,7401,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/19.csv
+30.csv,SR20G6,Abnormal,Pitch Excursion,7976,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/30.csv
+18.csv,SR20G6,Abnormal,Pitch Excursion,7197,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/18.csv
+pitch_guard_segments.csv,SR20G6,Abnormal,Pitch Excursion,1446,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/pitch_guard_segments.csv
+6.csv,SR20G6,Abnormal,Pitch Excursion,4084,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/6.csv
+10.csv,SR20G6,Abnormal,Pitch Excursion,4220,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/10.csv
+27.csv,SR20G6,Abnormal,Pitch Excursion,7940,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/27.csv
+13.csv,SR20G6,Abnormal,Pitch Excursion,6945,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/13.csv
+20.csv,SR20G6,Abnormal,Pitch Excursion,11466,CAFUC2/abnormal_data/pitch_attitude/clean_data_SR20G6/20.csv
