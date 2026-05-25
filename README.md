@@ -34,7 +34,7 @@ CAFUC2/
 ├── abnormal_data/                 # Flight logs with synthetic faults
 │   ├── accelerator_operation/     # Throttle Surge (RPM instability & thermal lag)
 │   ├── course_deviation/          # Flight Path Deviation (Kinematic lateral drift)
-│   ├── engine_power_loss/         # Engine Cooling Failure (Temperature rise)
+│   ├── engine_power_loss/         # Cylinder Misfire (Partial Power Loss)
 │   └── pitch_attitude/            # Pitch Excursion (Aerodynamic G-force coupling)
 │       └── clean_data_[Model]/
 │           └── X.csv              # X: Extracted integer ID corresponding to baseline
@@ -63,24 +63,23 @@ To optimize memory footprint and ensure precision, geospatial coordinates
 readings are rounded to 3 decimal places.
 
 Variables included (may vary slightly depending on aircraft model avionics):
-* label      : Ground truth label (0 = Normal, 1 = Anomaly). Note: Baseline files implicitly have label=0.
-* Latitude   : Aircraft latitude coordinate (Decimal Degrees).
-* Longitude  : Aircraft longitude coordinate (Decimal Degrees).
-* AltMSL     : Altitude above Mean Sea Level (Feet).
-* AltGPS     : GPS-derived Altitude (Feet).
-* VSpd       : Vertical Speed / Climb rate (Feet per minute).
-* Pitch      : Pitch attitude angle (Degrees, positive = nose up).
-* Roll       : Roll attitude angle (Degrees, positive = right bank).
-* HDG        : Magnetic Heading (Degrees).
-* TRK        : Ground Track angle (Degrees).
-* NormAc     : Normal Acceleration / G-force (G).
-* LatAc      : Lateral Acceleration (G).
-* E1 RPM     : Engine 1 Speed (Revolutions per minute).
-* E1 FFlow   : Engine 1 Fuel Flow (Gallons per hour).
-* E1 OilT    : Engine 1 Oil Temperature (Degrees Fahrenheit).
-* E1 CHT1-4  : Engine 1 Cylinder Head Temperature for Cylinders 1 to 4 (Degrees Fahrenheit).
-* E1 EGT1-4  : Engine 1 Exhaust Gas Temperature for Cylinders 1 to 4 (Degrees Fahrenheit).
-* WptDst     : Distance to the next active waypoint (Nautical miles / Meters).
+* label      : Ground truth label (0 = Normal, 1 = Anomaly). Note: Baseline files implicitly have label=0.
+* Latitude   : Aircraft latitude coordinate (Decimal Degrees).
+* Longitude  : Aircraft longitude coordinate (Decimal Degrees).
+* AltMSL     : Altitude above Mean Sea Level (Feet).
+* VSpd       : Vertical Speed / Climb rate (Feet per minute).
+* Pitch      : Pitch attitude angle (Degrees, positive = nose up).
+* Roll       : Roll attitude angle (Degrees, positive = right bank).
+* LatAc      : Lateral Acceleration (G).
+* NormAc     : Normal Acceleration / G-force (G).
+* HDG        : Magnetic Heading (Degrees).
+* TRK        : Ground Track angle (Degrees).
+* E1 FFlow   : Engine 1 Fuel Flow (Gallons per hour).
+* E1 OilT    : Engine 1 Oil Temperature (Degrees Fahrenheit).
+* E1 RPM     : Engine 1 Speed (Revolutions per minute).
+* E1 CHT1-4  : Engine 1 Cylinder Head Temperature for Cylinders 1 to 4 (Degrees Fahrenheit).
+* E1 EGT1-4  : Engine 1 Exhaust Gas Temperature for Cylinders 1 to 4 (Degrees Fahrenheit).
+* AltGPS     : GPS-derived Altitude (Feet).
 
 5. ANOMALY DESCRIPTIONS
 -----------------------------------------------------------------------------
@@ -90,7 +89,7 @@ Variables included (may vary slightly depending on aircraft model avionics):
 2) Flight Path Deviation (course_deviation): 
    Simulates navigation drift. Geospatial coordinates (Lat/Lon) are 
    recalculated based on deviated track angles using spherical trigonometry.
-3) Engine Cooling Failure (engine_power_loss): 
+3) Cylinder Misfire (engine_power_loss): 
    Simulates cooling system degradation. Causes non-linear CHT temperature 
    rises, coupled with subtle performance drops in Vertical Speed.
 4) Pitch Excursion (pitch_attitude): 
