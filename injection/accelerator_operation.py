@@ -111,8 +111,9 @@ def apply_segment(df: pd.DataFrame, start: int, end: int, slope: float):
 
     if RPM_COL in df.columns:
         rpm_delta = slope * np.arange(seg_len, dtype=float)
+        noise = np.random.normal(loc=0.0, scale=5.0, size=seg_len)
         orig = df.iloc[rows, rpm_idx].astype(float).values
-        df.iloc[rows, rpm_idx] = orig + rpm_delta
+        df.iloc[rows, rpm_idx] = orig + rpm_delta+ noise
 
         # Chain reaction variables
         if FFLOW_COL in df.columns:
